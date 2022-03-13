@@ -38,19 +38,3 @@ swiper_index: 1
 唐先森的博客
 
 长宽是550px:360px，宽度在不同屏幕下会有所变动。、
-
-
-
-https://www.canva.cn/
-
-主线任务3：学习github action，将博客源码托管至github，并通过github action完成线上部署。
-教程链接：https://akilar.top/posts/f752c86d/
-任务难度：⭐⭐⭐⭐
-
-支线任务4：使用Vercel部署博客网页，进一步提高访问速度
-教程链接：https://akilar.top/posts/812734f8/
-任务难度：⭐
-
-博客优化副本任务：按照糖果屋优化日记的教程索引，完成博客基本优化
-教程链接：https://akilar.top/posts/7c16c4bb/
-任务难度：⭐⭐⭐⭐⭐
