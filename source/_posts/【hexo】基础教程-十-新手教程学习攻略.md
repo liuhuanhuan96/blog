@@ -36,7 +36,7 @@ Hexo博客新手任务学习分支线：
 hexo new post <title>
 ```
 
- 新建一篇文章。可以在[Blogroot]/source/_post/目录下找到新建的文章。可以通过修改[Blogroot]/scaffolds/post.md的模板内容来改变默认生成的文章格式。
+ew 新建一篇文章。可以在[Blogroot]/source/_post/目录下找到新建的文章。可以通过修改[Blogroot]/scaffolds/post.md的模板内容来改变默认生成的文章格式。
 教程链接：https://hexo.io/zh-cn/docs/writing
 任务难度：⭐
 
