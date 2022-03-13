@@ -19,25 +19,11 @@ swiper_index: 1
 
 ## 未完成配置
 
-- 标签外挂
-- 唐先森博客优化
-- 评论系统
-- 友链
-- 相册
 - 视频
-- 文章链接地址
-- 标签图片新增
 - 碎碎念
 - 文章首页图片显示，不是太大，就是太小
-- 友链接
-- 关于
-- 学习
-- 外挂标签
 - 整个网站优化
 - webpack网站
-- 唐先森的博客
-- hexo-bilibili-bangumi 
-- hexo.io/plugins 
 
 
 
@@ -51,25 +37,11 @@ swiper_index: 1
 
 唐先森的博客
 
-![绿黑色炫酷黑科技电竞风游戏网络技术大标题科技互联网培训中文微信公众号封面](https://tva1.sinaimg.cn/large/e6c9d24egy1h072ztq1waj20p00anacf.jpg)
-
-
-
 长宽是550px:360px，宽度在不同屏幕下会有所变动。、
 
 
 
 https://www.canva.cn/
-
-
-
-Hexo博客新手任务学习分支线：
-
-
-
-支线任务3：熟练掌握markdown基本语法后，可以使用外挂标签丰富博客文章的格式。
-教程链接：https://akilar.top/posts/615e2dec/
-任务难度：⭐⭐
 
 主线任务3：学习github action，将博客源码托管至github，并通过github action完成线上部署。
 教程链接：https://akilar.top/posts/f752c86d/
@@ -82,9 +54,3 @@ Hexo博客新手任务学习分支线：
 博客优化副本任务：按照糖果屋优化日记的教程索引，完成博客基本优化
 教程链接：https://akilar.top/posts/7c16c4bb/
 任务难度：⭐⭐⭐⭐⭐
-
-
-
-外挂标签的使用
-
-先学习一遍外挂标签->处理封面图片的问题->然后网页收藏页面->页面加速与博客优化
