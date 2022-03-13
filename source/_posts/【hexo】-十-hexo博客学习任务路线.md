@@ -4,15 +4,16 @@ copyright_author: 刘先森
 copyright_author_href: 'https://novoice.top'
 copyright_url: 'https://novoice.top'
 copyright_info: 此文章版權歸刘先森所有，如有轉載，請註明來自原作者
-date: 2022-03-13 17:58:25
 tags:
   - Hexo
 categories:
   - Hexo
-top_img: https://picsum.photos/id/119/3264/2176
+top_img: 'https://picsum.photos/id/119/3264/2176'
 sticky: 4
 copyright: true
-cover: https://picsum.photos/id/119/3264/2176
+cover: 'https://picsum.photos/id/119/3264/2176'
+abbrlink: 7e5effc8
+date: 2022-03-13 17:58:25
 ---
 
 Hexo博客新手任务学习分支线：
