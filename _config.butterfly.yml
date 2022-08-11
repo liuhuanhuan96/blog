@@ -22,6 +22,7 @@ menu:
   关于: /about/ || fas fa-heart
   其他 || fa fa-window-restore:
     学习网址: /nav.html || fa fa-graduation-cap
+    开源项目: /project || fa fa-github
 
 
 # Code Blocks (代碼相關)
@@ -463,7 +464,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: <a href="icp链接"><img class="icp-icon"><span>备案号：xxxxxx</span></a>  #custom_text是一个给你用来在页脚自定义文本的选项。通常你可以在这里写声明文本等。支持 HTML。
+  custom_text: <a href="https://beian.miit.gov.cn/#/Integrated/index"><img class="icp-icon"><span>备案号：苏ICP备2021035086</span></a>  #custom_text是一个给你用来在页脚自定义文本的选项。通常你可以在这里写声明文本等。支持 HTML。
   copyright: true # Copyright of theme and framework
 
 # Analysis
